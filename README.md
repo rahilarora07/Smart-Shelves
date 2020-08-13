@@ -18,7 +18,7 @@ In order to make the Smart Shelf run, Firstly the IR sensors plays a vital role 
 
 ## Basic prototype 
 
-![]()
+![](Application .jpg)
 
 ## Screenshot of the basic mobile application
 
